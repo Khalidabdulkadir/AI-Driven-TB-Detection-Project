@@ -1,5 +1,14 @@
 # AI-Driven TB Detection System
 
+## Google Colab Notebook
+
+You can explore and run the training code directly on Google Colab using the notebook below:
+
+👉 [Open Colab Notebook](https://colab.research.google.com/drive/1ymrXe45RxmG2YfH8-HBIm1WxrLLych8f#scrollTo=DOOakcXwgLxm)
+
+This notebook includes data preprocessing, model training, and evaluation using the Shenzhen TB X-ray dataset.
+
+
 This project implements an AI-driven system that uses a Convolutional Neural Network (CNN) to detect tuberculosis (TB) from chest X-ray images. It leverages the Shenzhen dataset to train and evaluate the model, making it a promising tool for rapid TB screening in areas with limited access to radiologists.
 
 ## Table of Contents
